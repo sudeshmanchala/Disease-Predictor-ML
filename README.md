@@ -82,7 +82,7 @@ Each model was trained using real-world healthcare datasets and tuned for optima
 
 ```bash
 # 1. Clone this repo:
-git clone https://github.com/Vivek2k29/Multi-Disease-Predictor.git
+git clone https://github.com/sudeshmanchala/Disease-Predictor.git
 cd Multi-Disease-Predictor
 
 # 2. Start Flask ML API
